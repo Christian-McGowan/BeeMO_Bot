@@ -3,8 +3,6 @@
 
 BeeMo is a fully offline, privacy-respecting voice assistant developed as a personal project. Designed to act as a responsive and context-aware conversational agent, BeeMo uses open-source tools to provide speech recognition, intelligent responses, and realistic voice synthesis — all without sending a single byte to the cloud.
 
-Whether you're experimenting with LLMs, building secure tools, or just want a fun voice bot that works without surveillance, BeeMo is built for you.
-
 ---
 
 ## 🧠 Key Features
@@ -43,7 +41,7 @@ requests
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/BeeMo.git
+git clone https://github.com/Christian-McGowan/BeeMo.git
 cd BeeMo
 ```
 
@@ -164,8 +162,7 @@ California State University, Fullerton
 
 ## 📜 License
 
-This project is released under the **MIT License**.  
-Feel free to fork, improve, or integrate it into your own offline agents.
+This project is released under the **MIT License**.
 
 ---
 
